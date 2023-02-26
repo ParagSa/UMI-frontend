@@ -1,6 +1,19 @@
 .App {
   text-align: center;
 }
+.linkTag{
+  text-decoration: none;
+  color:darkgrey;
+
+  
+}
+.linkTagMain{
+  text-decoration: none;
+  color:black;
+
+  
+}
+
 
 .App-logo {
   height: 40vmin;
